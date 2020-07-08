@@ -1,4 +1,4 @@
-This project include solution of the problem form LeetCode. This will be helpful for you to develop your logical skills.
+This project include solution for the problem form LeetCode. This will be helpful for you to develop your logical skills.
 
 | #   | Title | Solution | 
 |-----|-------|----------|
