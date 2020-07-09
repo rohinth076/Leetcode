@@ -7,3 +7,4 @@ This project include solution for the problem form LeetCode. This will be helpfu
 |  3  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/rohinth076/Leetcode/commit/2ccf7376593745e84399b427edc0c3ff6f498db)|**Medium**|
 |  4  |[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C](https://github.com/rohinth076/Leetcode/commit/afd54bbb1d8bc17e1f84017234d16d3469f528af)|**Hard**|
 |  5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](https://github.com/rohinth076/Leetcode/commit/9e7e614b38c09bdc7ced74794828c386037d4706)|**Medium**|
+|  6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](https://github.com/rohinth076/Leetcode/commit/3799443d76fafe2c50927b4112d768ce184b8e82)|**Medium**|
