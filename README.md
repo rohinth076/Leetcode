@@ -13,3 +13,6 @@ This project include solution for the problem form LeetCode. This will be helpfu
 | 11 |[ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C](https://github.com/rohinth076/Leetcode/commit/aadbbb7721e329ee2926169e3c342d32fcdf4869)|**Medium**|
 | 12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/rohinth076/Leetcode/commit/74f3c701045b01dc37e448b953f0987dfcb00c92)|**Medium**|
 | 13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](https://github.com/rohinth076/Leetcode/commit/20624a3a3468c3df36bff226d23390a5f18569d0)|**Easy**|
+| 14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/rohinth076/Leetcode/commit/970b3b9699e0a2bda0f5da442618121957c4a538)|**Easy**|
+| 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C](https://github.com/rohinth076/Leetcode/commit/541ff268621d6a40d316bedd75dd8d0c4a45da28)|**Medium**|
+| 20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/rohinth076/Leetcode/commit/4a8c75b70e012d0106fd91deda2e8e97e8d73f40)|**Easy**|
