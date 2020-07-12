@@ -16,3 +16,7 @@ This project include solution for the problem form LeetCode. This will be helpfu
 | 14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/rohinth076/Leetcode/commit/970b3b9699e0a2bda0f5da442618121957c4a538)|**Easy**|
 | 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C](https://github.com/rohinth076/Leetcode/commit/541ff268621d6a40d316bedd75dd8d0c4a45da28)|**Medium**|
 | 20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/rohinth076/Leetcode/commit/4a8c75b70e012d0106fd91deda2e8e97e8d73f40)|**Easy**|
+| 21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](https://github.com/rohinth076/Leetcode/commit/152e039a555df31669edc10ad29ddd2157046629)|**Easy**|
+| 23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](https://github.com/rohinth076/Leetcode/commit/4e9113a18117754e9e353dd141b5d4416544705a)|**Hard**|
+| 24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C](https://github.com/rohinth076/Leetcode/commit/ec3d1fb22d36808cfd1f371cdf15672a833de9a6)|**Medium**|
+| 26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/rohinth076/Leetcode/commit/ad84ffb45e4a499cbefcf15f8fef9b845962f424)|**Easy**|
