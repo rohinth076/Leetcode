@@ -23,3 +23,4 @@ This project include solution for the problem form LeetCode. This will be helpfu
 | 27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/rohinth076/Leetcode/commit/7fec2b803dc2dba0539368edd3a0a7e12449d96a)|**Easy**|
 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C](https://github.com/rohinth076/Leetcode/commit/5cd656b7497b6431510d30d84c0c679342987e82)|**Easy**|
 | 29 |[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C](https://github.com/rohinth076/Leetcode/commit/988cddb41550292f3bd874719f592732f08ed437)|**Medium**|
+| 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Cpp](https://github.com/rohinth076/Leetcode/blob/master/Cpp/Next%20Permutation.cpp)|**Medium**|
