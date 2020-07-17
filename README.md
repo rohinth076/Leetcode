@@ -24,3 +24,4 @@ This project include solution for the problem form LeetCode. This will be helpfu
 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C](https://github.com/rohinth076/Leetcode/commit/5cd656b7497b6431510d30d84c0c679342987e82)|**Easy**|
 | 29 |[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C](https://github.com/rohinth076/Leetcode/commit/988cddb41550292f3bd874719f592732f08ed437)|**Medium**|
 | 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Cpp](https://github.com/rohinth076/Leetcode/blob/master/Cpp/Next%20Permutation.cpp)|**Medium**|
+| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/rohinth076/Leetcode/commit/e16aa81bb1f4684d215485908b03f9a9cc8a73da)|**Medium**|
