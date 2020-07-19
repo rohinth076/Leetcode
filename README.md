@@ -30,3 +30,4 @@ This project include solution for the problem form LeetCode. This will be helpfu
 | 34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](https://github.com/rohinth076/Leetcode/commit/7cb4a55bc8ad5a243ce38f1ae0eccc357b5b7a85)<br>[Python](https://github.com/rohinth076/Leetcode/commit/7cb4a55bc8ad5a243ce38f1ae0eccc357b5b7a85)|**Medium**|
 | 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C](https://github.com/rohinth076/Leetcode/commit/359ce2b0b4b2b13f6023dbc855a1f72df73a4f33?diff=unified)|**Easy**|
 | 38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](https://leetcode.com/problems/count-and-say/)|**Easy**|
+| 39|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C](https://github.com/rohinth076/Leetcode/commit/41c802b8dfd17aa2e5e6aedec0b8fa246c6341a1)|**Hard**|
