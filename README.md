@@ -21,6 +21,7 @@ This project include solution for the problem form LeetCode. This will be helpfu
 | 21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](https://github.com/rohinth076/Leetcode/commit/152e039a555df31669edc10ad29ddd2157046629)|**Easy**|
 | 23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](https://github.com/rohinth076/Leetcode/commit/4e9113a18117754e9e353dd141b5d4416544705a)|**Hard**|
 | 24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C](https://github.com/rohinth076/Leetcode/commit/ec3d1fb22d36808cfd1f371cdf15672a833de9a6)|**Medium**|
+| 25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](https://github.com/rohinth076/Leetcode/commit/cf863adb2219b94257131ebfc217812eaf1fb609)|**Hard**|
 | 26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/rohinth076/Leetcode/commit/ad84ffb45e4a499cbefcf15f8fef9b845962f424)|**Easy**|
 | 27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/rohinth076/Leetcode/commit/7fec2b803dc2dba0539368edd3a0a7e12449d96a)|**Easy**|
 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C](https://github.com/rohinth076/Leetcode/commit/5cd656b7497b6431510d30d84c0c679342987e82)|**Easy**|
